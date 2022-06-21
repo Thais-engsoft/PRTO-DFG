@@ -34,6 +34,8 @@ header a{
 }
 .container3{
     display: flex;
+    align-items: center;
+    padding: 1.55rem;
 }
 @media only screen and (min-width: 300px) and (max-width: 615px) {
     .header-img{
