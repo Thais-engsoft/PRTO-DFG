@@ -45,7 +45,7 @@ header a{
     }
     .card-text{
         margin-top: 7vw;
-        width: 435px;
+        width: 325px;
     }
     .separar{
         text-align: center;
@@ -58,7 +58,7 @@ header a{
         align-items: center;
         text-align: center;
         margin: 2rem;
-        max-width: 375px;
+        max-width: 325px;
         min-width: 250px;
     }
     .card-title{
