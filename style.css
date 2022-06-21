@@ -20,13 +20,13 @@ header a{
     background-color: rgba(128, 128, 128, 0.089);
     border-radius: 10px;
     cursor: pointer;
-}
+}/*
 .button{
     background-color: #3141B6;
     color: white;
     padding: 8px;
     border-radius: 8px
-}
+}*/
 .card-text{
     color: white;
     text-align: center;
@@ -55,12 +55,12 @@ header a{
         font-weight: 600;
         font-size: 14px;
         padding: 12px;
-    }
+    }/*
     .button{
         text-decoration: dashed;
         font-weight: 600;
         font-size: 14px;
-    }
+    }*/
     .separar{
         text-align: center;
         font-size: 1.50rem;
