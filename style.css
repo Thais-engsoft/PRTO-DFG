@@ -13,12 +13,19 @@ header{
 }
 header a{
     text-decoration: none;
+    font-weight: 500;
 }
-.header-menu a:hover{
+.header-item a:hover{
     text-decoration: overline;
     background-color: rgba(128, 128, 128, 0.089);
     border-radius: 10px;
     cursor: pointer;
+}
+.button{
+    background-color: #3141B6;
+    color: white;
+    padding: 8px;
+    border-radius: 8px
 }
 .card-text{
     color: white;
@@ -42,12 +49,17 @@ header a{
         width: 20%;
         padding: 10px;
     }
-    .header-item{
+    .header-item {
         color: #343f74;
         text-decoration: dashed;
         font-weight: 600;
         font-size: 14px;
         padding: 12px;
+    }
+    .button{
+        text-decoration: dashed;
+        font-weight: 600;
+        font-size: 14px;
     }
     .separar{
         text-align: center;
@@ -66,7 +78,7 @@ header a{
        font-weight: 500;
        font-size: 19.25px;
     }
-    .card-text-sp{
-        color: black;
-    }  
+     .container3{
+        margin-left: 3rem;
+     }
 }
