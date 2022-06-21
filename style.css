@@ -25,6 +25,7 @@ header a{
     text-align: center;
     font-size: larger;
     align-items: center;
+   
 }
 .separar{
     text-align: center;
@@ -48,6 +49,9 @@ header a{
         font-size: 1.50rem;
         font-weight: 600;
         padding-top: 1.50em ;
+    }
+    .card-text{
+        padding-top: 7%;
     }
     .card-group .card{
         padding: 1em;
