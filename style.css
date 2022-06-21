@@ -51,19 +51,18 @@ header a{
         padding-top: 1.50em ;
     }
     .card-text{
-        padding-top: 7%;
+        padding: 7%;
     }
     .card-group .card{
         padding: 1em;
         align-items: center;
         text-align: center;
-        margin: 2rem;
-        max-width: 380px;
-        min-width: 250px;
+        margin: 3rem;
+        background-color: rgba(192, 186, 186, 0.144);
     }
     .card-title{
        font-weight: 500;
-       font-size: 17px;
+       font-size: 19.25px;
     }
     .card-text-sp{
         color: black;
