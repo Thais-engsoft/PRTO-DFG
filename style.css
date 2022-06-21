@@ -43,9 +43,6 @@ header a{
         font-size: 14px;
         padding: 12px;
     }
-    .card-text{
-        margin-top: 7vw;
-    }
     .separar{
         text-align: center;
         font-size: 1.50rem;
@@ -57,7 +54,7 @@ header a{
         align-items: center;
         text-align: center;
         margin: 2rem;
-        max-width: 325px;
+        max-width: 380px;
         min-width: 250px;
     }
     .card-title{
