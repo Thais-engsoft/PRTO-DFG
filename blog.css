@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
 *{
     margin: 0px;
-    font-size: 100%;
     font-family: "Poppins", sans-serif;
 }
 .text h4{
@@ -24,7 +23,7 @@
 footer{
     justify-content: space-around;
 }
-@media only screen and (min-width: 300px) and (max-width: 615px){
+@media only screen and (min-width: 300px) and (max-width: 600px){
     .card-title{
         font-size: 14px;
     }
